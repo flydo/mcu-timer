@@ -1,0 +1,17 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net5.0-windows</TargetFramework>
+    <UseWindowsForms>true</UseWindowsForms>
+    <Platforms>AnyCPU;x64;x86</Platforms>
+    <Authors>SkiyChan</Authors>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Company>捷威科技</Company>
+    <Description>单片机定时器初值计算器</Description>
+    <Product>定时器初值计算器</Product>
+    <Copyright>Copyright 2021</Copyright>
+    <PackageProjectUrl>https://github.com/skiy/timer</PackageProjectUrl>
+  </PropertyGroup>
+
+</Project>
